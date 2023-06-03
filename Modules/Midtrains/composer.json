@@ -1,0 +1,26 @@
+{
+    "name": "mediacity/midtrains",
+    "description": "",
+    "authors": [
+        {
+            "name": "Sudhir Chechani",
+            "email": "sudhirchechani@gmail.coom"
+        }
+    ],
+    "require": {
+        "midtrans/midtrans-php": "^2.4"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Midtrains\\": ""
+        }
+    }
+}

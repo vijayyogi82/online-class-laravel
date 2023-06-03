@@ -1,0 +1,14 @@
+{
+    "name": "Esewa",
+    "alias": "esewa",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Esewa\\Providers\\EsewaServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "version": "1.5"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "nwidart/homework",
+    "description": "eclass homework add-on",
+    "authors": [
+        {
+            "name": "Sudhir Chechani",
+            "email": "sudhirchechani@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Homework\\": ""
+        }
+    }
+}

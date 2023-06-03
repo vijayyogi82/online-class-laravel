@@ -1,0 +1,23 @@
+{
+    "name": "emart/dpopayment",
+    "description": "DPO-Payment Module",
+    "authors": [
+        {
+            "name": "thenextlinestudio",
+            "email": "thenextlinestudio@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\DPOPayment\\": ""
+        }
+    }
+}

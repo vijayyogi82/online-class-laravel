@@ -1,0 +1,15 @@
+{
+    "name": "Ebook",
+    "alias": "ebook",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Ebook\\Providers\\EbookServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],   
+    "version": "1.0"
+
+}

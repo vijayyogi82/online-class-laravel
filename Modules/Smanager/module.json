@@ -1,0 +1,14 @@
+{
+    "name": "Smanager",
+    "alias": "smanager",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Smanager\\Providers\\SmanagerServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "version": "1.4"
+}

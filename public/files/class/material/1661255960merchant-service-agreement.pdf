@@ -1,0 +1,598 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 466
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 18 Tf
+20.6999999999999993 TL
+0 g
+56.6929133858267775 756.8506299212598378 Td
+(Merchant Service Agreement) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+ET
+BT
+/F1 20 Tf
+23. TL
+0 g
+56.6929133858267775 714.3309448818897636 Td
+(PLEASE READ THE FOLLOWING AGREEMENT, ) Tj
+T* (ALONG WITH ITS TERMS AND CONDITIONS, ) Tj
+T* (THE FLUTTERWAVE TERMS OF USE AND PRIVACY ) Tj
+T* (POLICY CAREFULLY BEFORE ACCESSING OR ) Tj
+T* (USING THE FLUTTERWAVE SERVICES.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 5329
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F9 10 Tf
+11.5 TL
+0 g
+28.3464566929133888 813.5435433070865656 Td
+(Flutterwave Merchant Service E- Agreement) Tj
+T* (Please read the following agreement, along with its terms and conditions, the Flutterwave terms of use and privacy policy ) Tj
+T* (carefully before accessing or using the flutterwave services. Note that these terms and conditions constitute a legal ) Tj
+T* (agreement between you \(the Merchant\) and flutterwave \(the Service Provider\).) Tj
+T* (You may not access or use any Flutterwave Services unless You Agree to abide by all of the terms and conditions ) Tj
+T* (as contained in this Agreement.) Tj
+T* (Please read the contents of this document carefully and print the copy sent to your email and/or retain this ) Tj
+T* (information electronically for your records) Tj
+T* () Tj
+T* (This Merchant Service Agreement \(“Agreement”\) is a legal agreement between FLUTTERWAVE TECHNOLOGY ) Tj
+T* (SOLUTIONS LIMITED \(together with its subsidiaries, affiliates, successors and assigns\)) Tj
+T* () Tj
+T* (And) Tj
+T* () Tj
+T* (You \(hereinafter referred to as the Merchant\),  as a user in order for You to receive certain payment ) Tj
+T* (gateway services and other services offered by Flutterwave and or its subsidiaries and affiliates) Tj
+T* () Tj
+T* (Flutterwave and Merchant are herein referred to collectively as “Parties” and individually as “Party”) Tj
+T* () Tj
+T* (Whereas:) Tj
+T* (Flutterwave is an integrated payment and transaction processing company that provides technology integration, ) Tj
+T* (advisory products and services, and transaction processing and payment infrastructure to individuals, government ) Tj
+T* (and corporate organizations across various sectors and has developed and owns an e-commerce service ) Tj
+T* (that authorizes payments for Merchants.) Tj
+T* () Tj
+T* (Flutterwave is in collaboration with the acquiring Bank to provide a Payment service gateway to Merchants.) Tj
+T* () Tj
+T* (The Merchant is desirous to partner with Flutterwave to use its Payment Gateway to process payment from its customers.) Tj
+T* () Tj
+T* (The Parties have agreed to work together in the development and production of certain technical, payment and financing ) Tj
+T* (products and have entered into this Agreement for the purpose of documenting their common intention.) Tj
+T* () Tj
+T* (Now It Is Hereby Agreed As follows:) Tj
+T* (DEFINITIONS) Tj
+T* (In this Agreement, the following definitions apply:) Tj
+T* (“3D-Secure” means the backup two \(2\) levels of security which must include delivery of a dynamic code in a card transaction) Tj
+T* () Tj
+T* (“Acquiring Bank” means the financial institution/bank institution that processes credit or debit card payments on behalf of ) Tj
+T* (a merchant.) Tj
+T* () Tj
+T* ("Affiliate" means, in relation to any Party, any entity in the same group as that Party, including but not limited ) Tj
+T* (to a subsidiary or a holding company of that Party and any direct or indirect subsidiaries of such holding company;) Tj
+T* () Tj
+T* (“Agreement” means this Merchant Service Agreement and any supplements, appendices, amendments, modifications, ) Tj
+T* (extensions and revisions therein;) Tj
+T* () Tj
+T* (“API” means Application Program Interface belonging to Flutterwave for the purpose of providing the Services;) Tj
+T* () Tj
+T* (“Applicable Law\(s\)” includes but is not limited to all Ghana’s legislation, law, regulation, code, guidelines, rules, policies ) Tj
+T* (and directives of any competent regulatory entity, including without limitation The Central Bank of Ghana and the Ghana Interbank ) Tj
+T* (Payment and Settlement Systems Limited \(GhIPSS\) requirements with respect to payments, data protection, data privacy and data ) Tj
+T* (security, or any successor legislation, law, regulation, code, guidelines, rules, policies and directives amending, consolidating ) Tj
+T* (or replacing such Applicable Law, that is applicable to the deployment or operation of the core IT Banking Solution as well as ) Tj
+T* (any Services to be provided with respect to this Agreement, and any court decision having the force of law in the Republic of ) Tj
+T* (Ghana;) Tj
+T* () Tj
+T* (“Business Day” means any day other than Saturday, Sunday, or any other day on which banking institutions in the Territory are ) Tj
+T* (authorized by law or executive action to close;) Tj
+T* () Tj
+T* (“Card” means a prepaid virtual and/or physical card issued by Issuing Bank, which is branded with one or more marks or signage of a ) Tj
+T* (Payment Scheme, offered by Flutterwave to its Merchants on the Flutterwave Platform;) Tj
+T* () Tj
+T* (“Cardholder” means any authorised user of a card who uses the card to carry out a card transaction on the Payment Gateway;) Tj
+T* () Tj
+T* (“Confidential Information” means all information relating to the Disclosing Party which is obtained, whether in writing, pictorially, ) Tj
+T* (in machine readable form or orally or by observation in connection with this Agreement, including but without limitation, financial ) Tj
+T* (information, know-how, processes, ideas, intellectual property \(irrespective of its registrability or patentability status\), ) Tj
+T* (schematics, trade secrets, technology, customer list \(potential or actual\) and other customer-related information, sales statistics,) Tj
+T* () Tj
+ET
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 8 0 R
+>>
+endobj
+8 0 obj
+<<
+/Length 5879
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F9 10 Tf
+11.5 TL
+0 g
+28.3464566929133888 813.5435433070865656 Td
+( ) Tj
+T* (market, market intelligence, marketing and other business strategies and other commercial information of a confidential nature but does ) Tj
+T* (not include information which is known to the Receiving Party without any limitation or restriction on use or disclosure before receipt ) Tj
+T* (of such information from or on behalf of the disclosing party or becomes publicly available, other than as a breach of this Agreement, ) Tj
+T* (or becomes lawfully available to the Receiving Party from a third party free from any confidentiality restriction or any information ) Tj
+T* (required to be disclosed under any relevant law or any binding judgment or order of court or arbitration tribunal or any stock exchange ) Tj
+T* (regulations or under direction from any relevant regulatory authority;) Tj
+T* () Tj
+T* (“Customers” means patrons of the Merchant in relation to a payment transaction processed using the Services;) Tj
+T* () Tj
+T* (“Chargebacks” means the reversal of a transaction or request for repayment in respect of a transaction previously settled and/or ) Tj
+T* (remitted that comes from the Issuing Bank, Payment Scheme or other financial institution.) Tj
+T* () Tj
+T* (The reasons for the Chargebacks include \(but are not limited to\):) Tj
+T* (the transaction amount not being authorized;) Tj
+T* (the cardholder alleging:) Tj
+T* (non-participation in the transaction; or) Tj
+T* (non-authorization of the use of card; or) Tj
+T* (non-receipt of goods and/or services purchased;) Tj
+T* (cancelled or uncompleted pre-authorized transaction; or) Tj
+T* (suspected fraud on card.) Tj
+T* () Tj
+T* (“Disclosing Party” means any one of the Parties under this Agreement who discloses Confidential Information to the other Party ) Tj
+T* (to this Agreement;) Tj
+T* () Tj
+T* (“Flutterwave Terms and Conditions” means collectively the terms and conditions set forth in this Agreement, as may be amended from ) Tj
+T* (time to time, including all exhibits, schedules and addendum thereto and the terms and conditions of the Payment Gateway on ) Tj
+T* (https://flutterwave.com/terms and the Flutterwave Privacy Policy on https://flutterwave.com/privacy-policy;) Tj
+T* (Per the termination of this Agreement, provided that prior to any disclosure of any party’s Confidential Information as required by ) Tj
+T* (law, the party subject to the requirement shall \(iv\) notify the other parties of all, if any, actual or threatened legal compulsion ) Tj
+T* (of disclosure, and any actual legal obligation of disclosure immediately upon becoming so obligated and \(v\) cooperate with the other ) Tj
+T* (parties’ reasonable, lawful efforts to resist, limit, or delay disclosure.) Tj
+T* () Tj
+T* (Upon Termination of this Agreement, or at any time upon the request of the other party, each party shall return all Confidential ) Tj
+T* (Information in the possession of such Party or in the possession of a third party \(over which such party has or may exercise control\).) Tj
+T* () Tj
+T* (In the event of any breach of the obligations under this Section 17, each Party acknowledges that the other Party may have no adequate ) Tj
+T* (remedy at law, in addition to such other remedies as may be available to the other Party, the other Party may obtain injunctive relief.) Tj
+T* () Tj
+T* (This Section shall survive any termination or expiration of this Agreement.) Tj
+T* (FORCE MAJEURE) Tj
+T* () Tj
+T* (If any of the Parties hereto is prevented from fulfilling its obligations under this Agreement by reason of any supervening event beyond ) Tj
+T* (its control \(including but not limited to an Act of God, Natural Disaster, or Civil Disorder\) the Party unable to fulfil its obligations ) Tj
+T* (shall immediately give notice in writing of this to the other Party and shall do everything in its power, including but not limited to ) Tj
+T* (accepting assistance from third parties or the other Party, to resume full performance.) Tj
+T* () Tj
+T* (If the period of incapacity exceeds two \(2\) months, then this Agreement shall automatically terminate unless Parties expressly agree ) Tj
+T* (otherwise in writing RELATIONSHIP BETWEEN PARTIES) Tj
+T* () Tj
+T* (The relationship between the Parties hereto shall be one of collaboration for the single purpose of the business relationship herein ) Tj
+T* (created.) Tj
+T* () Tj
+T* (This Agreement shall not in any way constitute a partnership or joint venture between the Parties or constitute either Party an ) Tj
+T* (agent of the other. This Agreement is not intended to confer on any person other than Flutterwave and the Merchant, any express or ) Tj
+T* (implied benefit or burden.) Tj
+T* (INTELLECTUAL PROPERTY) Tj
+T* () Tj
+T* (Nothing set forth in this Agreement shall constitute a transfer or assignment by one Party to another Party of any Intellectual Property ) Tj
+T* (Rights owned or otherwise controlled by such Party, and each Party hereby retains all of its rights, title and interest in such Intellectual ) Tj
+T* (Property Rights.) Tj
+T* () Tj
+T* (All Intellectual Property Rights in or related to the Payment gateway are and will remain the exclusive property of Flutterwave, ) Tj
+T* (whether or not specifically recognized or perfected under the laws of the jurisdiction in which the Payment gateway is used or ) Tj
+T* (licensed. The Merchant shall not take any action that jeopardizes Flutterwave's proprietary rights or acquire any right in the ) Tj
+T* (Payment gateway, or the Confidential Information, as defined herein. Unless otherwise agreed on a case-by-case basis, Flutterwave ) Tj
+T* (will own all rights in any copy, translation, modification, adaptation or derivation of the Payment gateway or other items of ) Tj
+T* (Confidential Information, including any improvement or development thereof.) Tj
+T* () Tj
+T* () Tj
+ET
+endstream
+endobj
+9 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 10 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 5006
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F9 10 Tf
+11.5 TL
+0 g
+28.3464566929133888 813.5435433070865656 Td
+() Tj
+T* (NO ASSIGNMENT) Tj
+T* () Tj
+T* (The, rights benefits or obligations under this Agreement may not be assigned or otherwise transferred in whole or in part without the ) Tj
+T* (prior written consent of all the Parties but shall be binding upon and inure to the benefit of each of the Parties and, where so ) Tj
+T* (permitted, their assigns or other transferees.) Tj
+T* () Tj
+T* (Flutterwave may sub-contract or delegate the performance of its obligations under this Agreement to third parties including any of its ) Tj
+T* (Affiliates; however, the Merchant shall remain responsible for the performance of its duties under this Agreement.) Tj
+T* () Tj
+T* (MODIFICATIONS) Tj
+T* (This Agreement may not be modified except by an instrument in writing signed by duly authorized representatives of each of the Parties.) Tj
+T* (WAIVER) Tj
+T* () Tj
+T* (The respective rights of the Parties \(whether arising under this Agreement or under the applicable law\) shall not be capable of being ) Tj
+T* (waived or varied otherwise than by an express waiver or variation in writing; and in particular any failure to exercise or any delay ) Tj
+T* (in exercising any of such rights shall not operate as a waiver or variation of that or any other such right; any defective or partial ) Tj
+T* (exercise of any of such right shall not preclude any other or further exercise of that or any other such right; and no act or course ) Tj
+T* (of conduct or negotiation on the part of either Party shall preclude them from exercising any such right or constitute a suspension or ) Tj
+T* (variation of such right.) Tj
+T* (SEVERANCE) Tj
+T* () Tj
+T* (In the event that any provision of this Agreement is declared by any applicable law, judicial or other competent authority to be void, ) Tj
+T* (voidable, illegal or otherwise unenforceable or irrelevant It shall to the extent required by such law or authority, be severed from this ) Tj
+T* (Agreement and rendered ineffective so far as is possible without modifying the remaining provisions of this Agreement.) Tj
+T* (FURTHER ASSURANCES) Tj
+T* () Tj
+T* (At all times after the date hereof the Parties shall at their own expense execute all such documents and do such acts and things as may ) Tj
+T* (be reasonably required for the purpose of giving full effect to this Agreement.) Tj
+T* () Tj
+T* (WHOLE AGREEMENT) Tj
+T* () Tj
+T* (Save for Flutterwave Terms and Conditions and Payment Scheme Rules of this Agreement, this Agreement contains the whole agreement between ) Tj
+T* (the Parties with respect to the subject matter hereof and supersedes any prior written or oral agreement between them in relation to its ) Tj
+T* (subject matter and the Parties confirm that they have not entered into this Agreement upon the basis of any representation that are not ) Tj
+T* (expressly incorporated herein and the Flutterwave Terms and Conditions.) Tj
+T* () Tj
+T* (DISPUTES AND DISPUTE RESOLUTION) Tj
+T* () Tj
+T* (Flutterwave shall not be involved in any disputes that may arise between the Merchant and any of its Customers, unless such dispute ) Tj
+T* (specifically relates to transaction settlement.) Tj
+T* () Tj
+T* (In the event of a dispute between Parties with respect to any issue arising out of or relating to this Agreement in any manner, including ) Tj
+T* (but not limited to the breach thereof, resolution of which cannot be resolved amicably by the Parties through negotiation within thirty ) Tj
+T* (\(30\) days shall be resolved by arbitration at the Ghana Arbitration Centre \(GAC\) before a single arbitrator in accordance with the Ghana ) Tj
+T* (Arbitration Centre Rules.) Tj
+T* () Tj
+T* (The Parties shall be entitled to require the appointment of an arbitrator by the Chairperson of Ghana Arbitration Centre in accordance with) Tj
+T* (the Rules, where the Parties fail to reach an amicable decision of the arbitrator.) Tj
+T* () Tj
+T* (The arbitration shall be held in Accra, Ghana and conducted in English language.) Tj
+T* () Tj
+T* (The decision of the arbitrator shall be final and binding on the Parties and Parties agree to be bound by it. Such decision shall be rendered ) Tj
+T* (within thirty \(30\) days of the closing of the hearing record.) Tj
+T* () Tj
+T* (The cost of arbitration shall be borne equally by the Parties.) Tj
+T* () Tj
+T* (The Arbitral award rendered by the arbitrator shall be entered in any court of competent jurisdiction as judgment. No award of punitive ) Tj
+T* (damages by the arbitrator may be enforced.) Tj
+T* () Tj
+T* (GOVERNING LAW) Tj
+T* () Tj
+T* (This Agreement shall be governed by the laws of the Republic of Ghana.) Tj
+T* (NOTICES.) Tj
+T* () Tj
+T* (Any notice required or permitted by this Agreement to be given to either Party by the other shall be given by personal delivery to such ) Tj
+T* (Party or by registered or certified mail, electronic mail, postage prepaid, return receipt requested, and addressed to:) Tj
+T* () Tj
+T* () Tj
+ET
+endstream
+endobj
+11 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 12 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 1937
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F9 10 Tf
+11.5 TL
+0 g
+28.3464566929133888 813.5435433070865656 Td
+() Tj
+T* (FLUTTERWAVE TECHNOLOGY SOLUTIONS LIMITED) Tj
+T* (Address: Suites 305 and 306) Tj
+T* (Emporium Movenpick Ambassador Ridge,) Tj
+T* (Accra,) Tj
+T* (Email: hi@flutterwavego.com) Tj
+T* (Attention: Managing Director) Tj
+T* (ANTI-CORRUPTION) Tj
+T* () Tj
+T* (Each Party hereby undertakes that, at the date of this Agreement, itself, its directors, officers, employees or Affiliates have not offered, ) Tj
+T* (promised, given, authorized, solicited or accepted any undue pecuniary or other advantage of any kind \(or implied that they will or might ) Tj
+T* (do any such thing at any time in the future\) in any way connected with this Agreement and that it has taken reasonable measures to prevent ) Tj
+T* (subcontractors, agents or any other third parties, subject to its control or determining influence, from doing so.) Tj
+T* () Tj
+T* (Each Party shall comply with all applicable anti-bribery and anti-corruption Laws in Ghana \(including the Economic and Financial Crimes ) Tj
+T* (commission laws and the Foreign Corrupt Practice Act of the United States of America and the Bribery Act 2010 of the United Kingdom\) and ) Tj
+T* (all applicable anti-bribery and anti-corruption regulations and codes of practice.) Tj
+T* () Tj
+T* (The Merchant shall ensure that this clause 30 is observed in all relationship with its customers.) Tj
+T* (.) Tj
+T* (.) Tj
+T* (.) Tj
+T* (.) Tj
+T* (.) Tj
+T* (Where you negotiate a Merchant Services Agreement before or after accepting the terms of this E-Agreement, the executed Agreement ) Tj
+T* (will take precedence over this E-Agreement.) Tj
+T* () Tj
+T* (Annexure 1) Tj
+T* (Transaction Fees) Tj
+T* (Fees payable for Flutterwave Services under this Agreement are structured on https://flutterwave.com/global-pricing.) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (Miss Ayushi Bhandari) Tj
+T* (July 28, 2022) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R ]
+/Count 5
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+21 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+22 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+23 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+24 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+25 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+26 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 13 0 R
+/F2 14 0 R
+/F3 15 0 R
+/F4 16 0 R
+/F5 17 0 R
+/F6 18 0 R
+/F7 19 0 R
+/F8 20 0 R
+/F9 21 0 R
+/F10 22 0 R
+/F11 23 0 R
+/F12 24 0 R
+/F13 25 0 R
+/F14 26 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+27 0 obj
+<<
+/Producer (jsPDF 2.4.0)
+/CreationDate (D:20220728110100+05'30')
+>>
+endobj
+28 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 29
+0000000000 65535 f 
+0000019581 00000 n 
+0000021428 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000000669 00000 n 
+0000000806 00000 n 
+0000006187 00000 n 
+0000006324 00000 n 
+0000012255 00000 n 
+0000012393 00000 n 
+0000017452 00000 n 
+0000017591 00000 n 
+0000019663 00000 n 
+0000019789 00000 n 
+0000019920 00000 n 
+0000020054 00000 n 
+0000020192 00000 n 
+0000020316 00000 n 
+0000020445 00000 n 
+0000020577 00000 n 
+0000020713 00000 n 
+0000020841 00000 n 
+0000020968 00000 n 
+0000021097 00000 n 
+0000021230 00000 n 
+0000021332 00000 n 
+0000021681 00000 n 
+0000021767 00000 n 
+trailer
+<<
+/Size 29
+/Root 28 0 R
+/Info 27 0 R
+/ID [ <A3EFBEE4904317E25DB8393053B3310E> <A3EFBEE4904317E25DB8393053B3310E> ]
+>>
+startxref
+21871
+%%EOF

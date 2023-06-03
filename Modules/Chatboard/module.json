@@ -1,0 +1,13 @@
+{
+    "name": "Chatboard",
+    "alias": "chatboard",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Chatboard\\Providers\\ChatboardServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

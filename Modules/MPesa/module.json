@@ -1,0 +1,14 @@
+{
+    "name": "MPesa",
+    "alias": "mpesa",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\MPesa\\Providers\\MPesaServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "version" : "1.4"
+}

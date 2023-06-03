@@ -1,0 +1,19 @@
+{
+    "name": "Certificate",
+    "alias": "certificate",
+    "description": "Certificate add-on for eclass",
+    "keywords": ["Certificate","eclass"],
+    "priority": 0,
+    "providers": [
+        "Modules\\Certificate\\Providers\\CertificateServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "version": "1.3",
+    "migration": {
+        "seeders": [
+            "Modules\\Certificate\\Database\\Seeders\\DatabaseSeeder"
+        ]
+    }
+}

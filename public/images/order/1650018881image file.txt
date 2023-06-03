@@ -1,0 +1,58 @@
+create blade
+
+
+<div class="form-group col-md-6">
+              <label for="exampleInputSlug"> {{ __('adminstaticword.Image') }}:<sup class="redstar text-danger">*</sup></label><br>
+              <div class="input-group mb-3">
+                <div class="input-group-prepend">
+                  <span class="input-group-text" id="inputGroupFileAddon01">Upload</span>
+                </div>
+                <div class="custom-file">
+                  <input type="file" name="image" class="custom-file-input" id="inputGroupFile01" aria-describedby="inputGroupFileAddon01">
+                  <label class="custom-file-label" for="inputGroupFile01">Choose file</label>
+                </div>
+              </div>
+            </div>
+
+
+
+
+edit blade
+
+
+
+<div class="form-group col-md-6">
+                <label>{{ __('adminstaticword.Image') }}:<sup class="redstar">*</sup></label>
+                <small class="text-muted"><i class="fa fa-question-circle"></i> {{ __('adminstaticword.Recommendedsize') }} (1375 x 409px)</small>
+                <div class="input-group mb-3">
+                  <div class="input-group-prepend">
+                    <span class="input-group-text" id="inputGroupFileAddon01">Upload</span>
+                  </div>
+                  <div class="custom-file">
+                    <input type="file" class="custom-file-input" id="inputGroupFile01" name="image" aria-describedby="inputGroupFileAddon01">
+                    <label class="custom-file-label" for="inputGroupFile01">Choose file</label>
+                  </div>
+                </div>
+                <img src="{{ url('/images/slider/'.$cate->image) }}" class="image_size"/>
+                </div>
+
+
+index blade
+
+<td>
+                                  <img src="{{ asset('images/slider/'.$cat->image) }}" class="img-responsive img-circle" >
+                                </td>
+
+
+
+add css
+.img-circle{
+   height:100px;
+   width:100px;
+   border-radius:50%;
+}
+
+.image_size{
+    height:80px;
+    width:200px;
+}

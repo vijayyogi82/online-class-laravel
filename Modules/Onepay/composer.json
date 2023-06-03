@@ -1,0 +1,23 @@
+{
+    "name": "eclass/onepay",
+    "description": "",
+    "authors": [
+        {
+            "name": "Sudhir Chechani",
+            "email": "sudhirchechani@gmail.coom"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Onepay\\": ""
+        }
+    }
+}

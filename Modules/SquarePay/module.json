@@ -1,0 +1,17 @@
+{
+    "name": "SquarePay",
+    "alias": "squarepay",
+    "version" : "1.4",
+    "description": "SquarePay payment for eclass",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\SquarePay\\Providers\\SquarePayServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [
+        "square/square"
+    ]
+    
+}

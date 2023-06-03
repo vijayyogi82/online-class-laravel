@@ -1,0 +1,23 @@
+{
+    "name": "eclass/bkash",
+    "description": "",
+    "authors": [
+        {
+            "name": "thenextlinestudio",
+            "email": "thenextlinestudio@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Bkash\\": ""
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "mediacity/paytab",
+    "description": "",
+    "authors": [
+        {
+            "name": "Sudhir Chechani",
+            "email": "sudhirchechani@gmail.coom"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Paytab\\": ""
+        }
+    }
+}

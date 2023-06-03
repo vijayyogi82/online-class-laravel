@@ -1,0 +1,14 @@
+{
+    "name": "AuthorizeNet",
+    "alias": "authorizenet",
+    "description": "AuthorizeNet payment gateway add on",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\AuthorizeNet\\Providers\\AuthorizeNetServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "version" : "1.4"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Upi",
+    "alias": "upi",
+    "description": "Upi add-on for eclass app",
+    "keywords": ["Upi","eclass"],
+    "priority": 0,
+    "providers": [
+        "Modules\\Upi\\Providers\\UpiServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "version": "1.0"
+
+}

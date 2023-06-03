@@ -1,0 +1,16 @@
+{
+    "name": "Worldpay",
+    "alias": "worldpay",
+    "version" : "1.4",
+    "description": "American payment processing company",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Worldpay\\Providers\\WorldpayServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [
+        "worldpay/worldpay-lib-php"
+    ]
+}

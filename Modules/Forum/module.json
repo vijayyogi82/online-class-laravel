@@ -1,0 +1,14 @@
+{
+    "name": "Forum",
+    "alias": "forum",
+    "description": "eClass forum & discussion add-on",
+    "keywords": ["forum","community","eclass"],
+    "version" : "1.1",
+    "priority": 0,
+    "providers": [
+        "Modules\\Forum\\Providers\\ForumServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

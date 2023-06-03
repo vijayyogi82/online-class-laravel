@@ -1,0 +1,23 @@
+{
+    "name": "nwidart/certificate",
+    "description": "",
+    "authors": [
+        {
+            "name": "thenextlinestudio",
+            "email": "thenextlinestudio@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Certificate\\": ""
+        }
+    }
+}

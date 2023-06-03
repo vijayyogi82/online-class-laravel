@@ -1,0 +1,16 @@
+{
+    "name": "Bkash",
+    "alias": "bkash",
+    "description": "Bkash payment gateway add on",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Bkash\\Providers\\BkashServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [
+        
+    ],
+    "version" : "1.4"
+}

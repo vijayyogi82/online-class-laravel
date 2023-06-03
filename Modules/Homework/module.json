@@ -1,0 +1,14 @@
+{
+    "name": "Homework",
+    "alias": "homework",
+    "description": "This module is provide homework functionality to eclass",
+    "keywords": ["eclass","homework"],
+    "version" : "1.2",
+    "priority": 0,
+    "providers": [
+        "Modules\\Homework\\Providers\\HomeworkServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

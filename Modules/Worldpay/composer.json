@@ -1,0 +1,26 @@
+{
+    "name": "mediacity/worldpay",
+    "description": "",
+    "authors": [
+        {
+            "name": "Sudhir Chechani",
+            "email": "sudhirchechani@gmail.coom"
+        }
+    ],
+    "require": {
+        "worldpay/worldpay-lib-php": "^2.1"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Worldpay\\": ""
+        }
+    }
+}

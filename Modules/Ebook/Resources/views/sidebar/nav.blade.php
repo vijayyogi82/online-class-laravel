@@ -1,0 +1,1 @@
+<li><a href="{{ url('web/ebook') }}" title=""><i data-feather="book-open"></i>{{ __('Ebook') }}</a></li>

@@ -1,0 +1,14 @@
+{
+    "name": "DPOPayment",
+    "alias": "dpopayment",
+    "description": "DPOPayment african payment gateway",
+    "keywords": ["dpopayment","eclass"],
+    "priority": 0,
+    "providers": [
+        "Modules\\DPOPayment\\Providers\\DPOPaymentServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "version" : "1.4"
+}

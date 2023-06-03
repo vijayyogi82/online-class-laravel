@@ -1,0 +1,23 @@
+{
+    "name": "mediacity/googleclassroom",
+    "description": "googleclassroom",
+    "authors": [
+        {
+            "name": "Sudhir Chechani",
+            "email": "sudhirchechani@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Googleclassroom\\": ""
+        }
+    }
+}

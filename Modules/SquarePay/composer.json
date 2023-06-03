@@ -1,0 +1,26 @@
+{
+    "name": "mediacity/squarepay",
+    "description": "",
+    "authors": [
+        {
+            "name": "Sudhir Chechani",
+            "email": "sudhirchechani@gmail.coom"
+        }
+    ],
+    "require": {
+        "square/square" : "13.1.0.20210818"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\SquarePay\\": ""
+        }
+    }
+}

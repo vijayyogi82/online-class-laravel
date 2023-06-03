@@ -1,0 +1,14 @@
+{
+    "name": "Resume",
+    "alias": "resume",
+    "description": "This module is provide resume functionality to eClass",
+    "keywords": ["eclass","resume"],
+    "version" : "1.2",
+    "priority": 0,
+    "providers": [
+        "Modules\\Resume\\Providers\\ResumeServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

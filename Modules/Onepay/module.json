@@ -1,0 +1,14 @@
+{
+    "name": "Onepay",
+    "alias": "onepay",
+    "description": "Onepay Payment add-on for eclass",
+    "keywords": ["onepay","eclass","onepay add-on"],
+    "priority": 0,
+    "providers": [
+        "Modules\\Onepay\\Providers\\OnepayServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "version" : "1.0"
+}
